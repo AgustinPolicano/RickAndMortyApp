@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+
+@font-face {
+    font-family: "RickAndMorty";
+    src: url("./assets/fonts/get_schwifty.ttf");
+}
+
+body {
+/*     background-image: url("./assets/img/bg-home.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 90vh;
+    background-color: #464646; */
+    background-color: #29FF69;
+}
+
+//fonts
+
+.f14{
+    font-size: 14px;
+}
+.f16{
+    font-size: 16px;
+}
+.f18{
+    font-size: 18px;
+}
+
+.f24{
+    font-size: 24px;
+}
+.f36{
+    font-size: 36px;
+}
+.f48{
+    font-size: 48px;
+}
